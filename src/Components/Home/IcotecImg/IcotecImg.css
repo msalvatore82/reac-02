@@ -1,0 +1,14 @@
+.iconostec {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -8px;
+    margin-top: 10px;
+    margin-right: -10px;
+   margin-left:  -10px;
+   padding-block: -10px;
+  
+  }
+  
+  .icotec:hover {-webkit-transform:scale(1.4);transform:scale(2.0);
+  cursor:default;}
+  
